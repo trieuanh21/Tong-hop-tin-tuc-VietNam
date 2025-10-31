@@ -1,0 +1,10 @@
+{
+  "name": "vietnamese-news-rss",
+  "version": "1.0.0",
+  "description": "Tổng hợp tin tức RSS từ các báo Việt Nam",
+  "entrypoint": "build/index.js",
+  "build": {
+    "command": "npm install && npm run build"
+  },
+  "runtime": "node20"
+}
