@@ -1,3 +1,3 @@
-# vietnamese-news-mcp-server
+# Tong-hop-tin-tuc-VietNam
 MCP Server để tổng hợp tin tức RSS từ các báo Việt Nam
 by TheAnhDepTrai
