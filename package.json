@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node build/index.js",
-    "prepare": "npm run build"
+    "postinstall": "npm run build"
   },
   "keywords": ["mcp", "rss", "vietnamese", "news", "vietnam"],
   "author": "Your Name",
